@@ -1,0 +1,66 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+/*Nav Section's CSS*/
+.navSec
+{
+    height: 100%;
+    margin-top: 20px;
+}
+.navCntainer
+{
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+#btn
+{
+    text-decoration: none;
+    color:orange;
+    font-weight: 900;
+    padding: 0px 5%;
+}
+
+/*Branner1 Section's CSS*/
+.profBnrSec
+{
+    margin-top: 40px;
+}
+.profBnrSec h1
+{
+    font-size: 50px;
+    color: #363958;
+}
+.nameColor
+{
+    color: #F69B60;
+}
+
+.bodyText
+{
+    text-align: justify;
+    margin-bottom: 40px;
+    color: #3E3E3E;
+}
+.bannerArea
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.bannerArea img
+{
+    width: 100%;
+}
+.bodyBtn
+{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(45deg, #e0736bbd, #F86A61);
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 5%;
+    font-weight: 500;
+}
+/*Branner1 Section's CSS*/
