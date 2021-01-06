@@ -1,0 +1,19 @@
+h1
+{
+    font-size: 50px;
+}
+.nameColor
+{
+    color: orange;
+}
+.halfWidth
+{
+    width: 40%;
+    float: left;
+    margin-left: 50%;
+}
+.halfWidth img
+{
+    width: 100%;
+    width: 200px;
+}
