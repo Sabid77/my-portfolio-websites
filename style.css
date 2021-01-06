@@ -31,9 +31,9 @@ body
     width: 100%;
     clear: both;
 }
-.profBnrSec h1
+.textArea h1
 {
-    font-size: 50px;
+    font-size: 75px;
     color: #363958;
 }
 .nameColor
